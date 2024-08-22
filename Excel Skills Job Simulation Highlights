@@ -3,3 +3,19 @@ Job Simulation Highlights:
 - Acquired proficient command of Excel functionalities and data analysis techniques, including data cleansing, and manipulation, and conditional formatting techniques.
 - Acquired proficiency in automation by learning to record macros and script in Visual Basic for Applications (VBA), developing two functional macros integrated with buttons using account sales data.
 - Gained expertise in data visualization and storytelling using Excel and PowerPoint by creating impactful charts and interactive dashboards.
+
+
+Task 1: To learn some key Excel shortcuts, practice them in Excel, and then take the quiz.
+
+Task 2: To use the conditional formatting tools to do the following explorations of the data.
+- Highlight any cells with formula errors in purple with white text.
+- Highlight any cells with missing values in yellow.
+- Identify accounts that have not been cross-sold with Product 2 by highlighting the appropriate Product 2 cells in orange.
+- Identify accounts that have a 5-year sales CAGR of at least 100% by highlighting the appropriate CAGR cells in green and any accounts with a negative CAGR in red with white text.
+- Identify accounts in the top 10% of unit sales for 2021 by highlighting the appropriate 2021 unit sales cells in blue.
+
+Task 3: To familiarize myself with recording and using simple macros in Excel, and then create two macros using the same spreadsheet I modified with conditional formatting from Task 1.
+- A macro to sort the entire spreadsheet by 5 YR CAGR in descending order to see which accounts have the highest overall 5-year sales growth.
+- A macro to sort the entire spreadsheet by 2021 unit sales in descending order to see which accounts have the highest overall unit sales in 2021.
+
+Task 4: To create a simple dashboard using the account sales dataset I worked with in prior tasks.
