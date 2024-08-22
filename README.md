@@ -1,1 +1,3 @@
-Developed advanced Excel skills, including data analysis, VBA scripting, and data visualization, with expertise in creating functional macros and impactful dashboards from the Forage platform.
+- Acquired proficient command of Excel functionalities and data analysis techniques, including data cleansing, and manipulation, and conditional formatting techniques.
+- Acquired proficiency in automation by learning to record macros and script in Visual Basic for Applications (VBA), developing two functional macros integrated with buttons using account sales data.
+- Gained expertise in data visualization and storytelling using Excel and PowerPoint by creating impactful charts and interactive dashboards.
